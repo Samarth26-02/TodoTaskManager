@@ -69,6 +69,7 @@ CREATE TABLE tasks (
     due_date DATE,
     status VARCHAR(20) DEFAULT 'PENDING'
 );
+```
 
 ### 🔧 2. Java Project Setup
 Import the project into Eclipse or IntelliJ.
@@ -77,10 +78,12 @@ Place MySQL JDBC JAR into lib/ folder and add to build path.
 
 Update DB credentials in DBConnection.java:
 
+```
     String URL = "jdbc:mysql://localhost:3306/todo_app";
     String USER = "root";
     String PASSWORD = "0S1a2m3a4r5t6h@";
-
+```
+---
 ▶️ Run Setup
 
 Follow these steps to run the project locally on your laptop:
@@ -114,8 +117,8 @@ Open your browser and navigate to:
 
 http://localhost:8080/TodoTaskManager/
 
-
 You should now see the Todo Task Manager app running 🎉
+---
 
 ✅ Deliverables
 📦 Working source code (.zip)
