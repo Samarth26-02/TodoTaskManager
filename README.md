@@ -81,13 +81,41 @@ Update DB credentials in DBConnection.java:
     String USER = "root";
     String PASSWORD = "0S1a2m3a4r5t6h@";
 
-Deploy the project to Apache Tomcat.
+▶️ Run Setup
 
-🚀 How to Run
-Start Apache Tomcat
+Follow these steps to run the project locally on your laptop:
 
-Navigate to:
-👉 http://localhost:8080/TodoTaskManager/
+1. Clone the Repository
+git clone https://github.com/Samarth26-02/TodoTaskManager.git
+cd TodoTaskManager
+
+2. Add MySQL Connector JAR
+
+Download MySQL Connector/J from:
+MySQL Connector/J Download
+
+Place the .jar file inside the lib/ folder of the project.
+
+Add it to your project build path (in Eclipse/IntelliJ).
+
+3. Deploy to Apache Tomcat
+
+Install Apache Tomcat
+
+Configure Tomcat in Eclipse/IntelliJ.
+
+Deploy the project to Tomcat.
+
+Start the Tomcat server.
+
+4. Run the Application
+
+Open your browser and navigate to:
+
+http://localhost:8080/TodoTaskManager/
+
+
+You should now see the Todo Task Manager app running 🎉
 
 ✅ Deliverables
 📦 Working source code (.zip)
