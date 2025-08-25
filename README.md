@@ -84,7 +84,7 @@ Update DB credentials in DBConnection.java:
     String PASSWORD = "0S1a2m3a4r5t6h@";
 ```
 ---
-▶️ Run Setup
+## ▶️ Run Setup
 
 Follow these steps to run the project locally on your laptop:
 
