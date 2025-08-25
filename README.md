@@ -34,9 +34,8 @@ TodoTaskManager/
  │   ├── index.jsp  
  │   ├── tasks.jsp  
  │   ├── updatetask.jsp  
- │   ├── styles/  
  │   └── lib/ (JDBC Driver - mysql-connector)  
- ├── .project / .classpath (for Eclipse setup)
+ └── .project / .classpath (for Eclipse setup)
 ```
 ---
 
