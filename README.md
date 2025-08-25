@@ -25,9 +25,19 @@ This application allows users to efficiently manage their daily tasks with basic
 - **IDE & Server:** IntelliJ IDEA / Eclipse, Apache Tomcat  
 
 ---
-
-<img width="471" height="307" alt="image" src="https://github.com/user-attachments/assets/c44fb32f-5931-43c4-9a84-83c6f29dfb06" />
-
+📂 Project Structure
+```
+TodoTaskManager/
+ ├── src/  
+ │   └── com.todo/ (Servlets, DTOs, Services, Repository)  
+ ├── WebContent/  
+ │   ├── index.jsp  
+ │   ├── tasks.jsp  
+ │   ├── updatetask.jsp  
+ │   ├── styles/  
+ │   └── lib/ (JDBC Driver - mysql-connector)  
+ ├── .project / .classpath (for Eclipse setup)
+```
 ---
 
 ## 🧰 Prerequisites
