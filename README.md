@@ -95,7 +95,7 @@ cd TodoTaskManager
 2. Add MySQL Connector JAR
 
 Download MySQL Connector/J from:
-MySQL Connector/J Download
+[MySQL Connector/J Download](https://dev.mysql.com/downloads/connector/j/)
 
 Place the .jar file inside the lib/ folder of the project.
 
