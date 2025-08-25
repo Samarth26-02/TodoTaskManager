@@ -1,6 +1,6 @@
 # ✅ Todo Task Manager - Built in Java Full Stack
 
-A full-stack Todo Task Manager web application built using Java Servlets, JSP, JDBC (MySQL), HTML, CSS, JavaScript, and Bootstrap.  
+A full-stack Todo Task Manager web application built using Java Servlets, JSP, JDBC, MySQL, HTML, CSS, JavaScript, and Bootstrap.  
 This application allows users to efficiently manage their daily tasks with basic CRUD (Create, Read, Update, Delete) functionality.
 
 ---
