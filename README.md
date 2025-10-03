@@ -27,7 +27,7 @@ This application allows users to efficiently manage their daily tasks with basic
 ---
 
 ## 🗂 Project Structure
-
+TodoTaskManager/
 ├── src/
 │   └── com.todo/ (Servlets, DTOs, Services, Repository)
 ├── frontend/ (Next.js application)
@@ -38,7 +38,7 @@ This application allows users to efficiently manage their daily tasks with basic
 ├── lib/ (JDBC Driver - mysql-connector)
 └── .project / .classpath (for Eclipse setup)
 
----
+Copy
 
 ## 🧰 Prerequisites
 
