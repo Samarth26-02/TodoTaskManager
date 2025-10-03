@@ -27,6 +27,7 @@ This application allows users to efficiently manage their daily tasks with basic
 ---
 
 ## 🗂 Project Structure
+```
 TodoTaskManager/
 ├── src/
 │   └── com.todo/ (Servlets, DTOs, Services, Repository)
@@ -37,6 +38,7 @@ TodoTaskManager/
 │   └── public/ (Static files)
 ├── lib/ (JDBC Driver - mysql-connector)
 └── .project / .classpath (for Eclipse setup)
+```
 
 Copy
 
