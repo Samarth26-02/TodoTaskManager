@@ -1,0 +1,40 @@
+.container {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.heading {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #222;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.buttonPrimary,
+.buttonSecondary {
+  padding: 0.8rem 2rem;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.buttonPrimary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.buttonSecondary {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.buttonPrimary:hover,
+.buttonSecondary:hover {
+  opacity: 0.9;
+}
