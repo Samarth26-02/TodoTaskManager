@@ -18,6 +18,7 @@ A full-stack Todo Task Manager web application built using Java Servlets, Next.j
 - **IDE & Server:** IntelliJ IDEA / Eclipse, Apache Tomcat
 
 ## 🗂 Project Structure
+```
 TodoTaskManager/
 ├── src/
 │   └── com.todo/ (Servlets, DTOs, Services, Repository)
@@ -28,7 +29,7 @@ TodoTaskManager/
 │   └── public/ (Static files)
 ├── lib/ (JDBC Driver - mysql-connector)
 └── .project / .classpath (for Eclipse setup)
-
+```
 Copy
 
 ## 🧰 Prerequisites
